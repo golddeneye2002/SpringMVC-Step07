@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:18:31:47 -0500] "GET / HTTP/1.1" 200 286 http-bio-8080-exec-1 605
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:18:31:48 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:18:32:38 -0500] "POST /login.do HTTP/1.1" 200 87 http-bio-8080-exec-4 43
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:18:33:26 -0500] "POST /login.do HTTP/1.1" 200 87 http-bio-8080-exec-6 2
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:18:50:28 -0500] "GET / HTTP/1.1" 200 286 http-bio-8080-exec-1 108
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:21:48:45 -0500] "GET /spring-mvc/login HTTP/1.1" 404 949 http-bio-8080-exec-1 105
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:21:48:46 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:21:49:55 -0500] "GET /spring-mvc/login HTTP/1.1" 404 949 http-bio-8080-exec-5 7
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:21:54:51 -0500] "GET /spring-mvc/login HTTP/1.1" 404 949 http-bio-8080-exec-8 3
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:21:54:57 -0500] "GET /spring-mvc/login HTTP/1.1" 404 949 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:21:54:58 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:22:17:04 -0500] "GET /spring-mvc/login HTTP/1.1" 200 12 http-bio-8080-exec-1 62
+0:0:0:0:0:0:0:1 - - [16/Dec/2018:22:17:05 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 4
